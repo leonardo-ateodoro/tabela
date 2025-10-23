@@ -1,0 +1,24 @@
+{
+  "name": "tabela",
+  "version": "1.0.0",
+  "description": "utilizar tags HTML para criar tabelas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardo-ateodoro/tabela.git"
+  },
+  "keywords": [
+    "tabelas",
+    "formatação",
+    "conteúdo"
+  ],
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardo-ateodoro/tabela/issues"
+  },
+  "homepage": "https://github.com/leonardo-ateodoro/tabela#readme"
+}
